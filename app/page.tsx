@@ -17,7 +17,7 @@ export default function Home() {
       <nav className="fixed w-full p-6 flex justify-between items-center z-50 bg-black/50 backdrop-blur-sm">
         <Link href="/" className="flex items-center gap-3">
           <Logo />
-          <span className="text-2xl font-serif">Predictor</span>
+          <span className="text-2xl font-serif">Predictoor</span>
         </Link>
         <div className="flex items-center gap-6">
           <Link href="https://x.com/predictoorxyz" className="hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">
